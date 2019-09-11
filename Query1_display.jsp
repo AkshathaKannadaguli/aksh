@@ -10,7 +10,7 @@
 </head>
 <body>
 <h3>Retrieve details of all books in the library  id, title, name of publisher,
-authors, number of copies in each branch, etc.<h3>
+authors, number of copies in each branch, etc.</h3>
 <%
 try{
 Class.forName("com.mysql.jdbc.Driver");
